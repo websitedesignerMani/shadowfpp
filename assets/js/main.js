@@ -8,6 +8,7 @@ var backToTo=document.querySelector(".scroll-top");if(document.body.scrollTop>50
 
 
 
+/*
 var form = document.getElementById("my-form");
 
 async function handleSubmit(event) {
@@ -27,4 +28,4 @@ async function handleSubmit(event) {
         status.innerHTML = "Oops! There was a problem submitting your form"
     });
 }
-form.addEventListener("submit", handleSubmit)
+form.addEventListener("submit", handleSubmit)*/
